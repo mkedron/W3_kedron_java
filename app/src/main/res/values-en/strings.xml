@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Maciej Kedron - App</string>
+    <string name="welcome_text">Maciej Kedron - Welcome</string>
+    <string name="send_data">Send data</string>
+    <string name="data_text_field">Enter data</string>
+    <string name="go_to_message">Messages</string>
+    <string name="go_to_result">Results</string>
+    <string name="choose_destination">Check your destination</string>
+    <string name="results_view">Results</string>
+    <string name="messages_view">Messages</string>
+    <string name="find_contact_button">Find contact</string>
+</resources>

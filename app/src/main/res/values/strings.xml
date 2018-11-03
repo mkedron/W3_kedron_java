@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Kedron - Aplikacja</string>
+    <string name="welcome_text">Maciej Kędroń - Witaj</string>
+    <string name="send_data">Prześlij dane</string>
+    <string name="data_text_field">Wpisz dane</string>
+    <string name="go_to_message">Wiadomości</string>
+    <string name="go_to_result">Wyniki</string>
+    <string name="choose_destination">Wybierz cel</string>
+    <string name="messages_view">Wiadomości</string>
+    <string name="results_view">Wyniki</string>
+    <string name="find_contact_button">Znajdź kontakt</string>
+</resources>
